@@ -1,0 +1,6 @@
+# Ignore Vagrant Directories
+.vagrant/
+
+# Ignore development files
+*.save*
+build-*
