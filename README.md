@@ -26,9 +26,10 @@ The following links were useful in putting this example project together:
 *  [Arduino CLI Hacking](http://www.raspberryvi.org/stories/arduino-cli.html)
 *  [Screen Quick Reference](http://aperiodic.net/screen/quick_reference)
 *  [Arduino and Linux TTY](https://playground.arduino.cc/Interfacing/LinuxTTY)
+*  [USB on a Vagrant Box](https://sonnguyen.ws/connect-usb-from-virtual-machine-using-vagrant-and-virtualbox/)
 
 This project was tested with:
-*  Ubuntu, Version: 18.04
+*  Ubuntu 18.04.1 LTS (GNU/Linux 4.15.0-29-generic x86_64)
 *  Ubuntu Package: arduino-core, Version: 2:1.0.5+dfsg2-4.1
 *  Ubuntu Package: arduino-mk, Version: 1.5.2-1
 *  Arduino HW: Elegoo Arduino Nano v3.0 (ATmega328P with CH340)
