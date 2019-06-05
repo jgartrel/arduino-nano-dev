@@ -5,7 +5,7 @@ Vagrant.configure("2") do |config|
 
   # Use a relatively well-maintained ubuntu image
   config.vm.box = "geerlingguy/ubuntu1804"
-  config.vm.box_version = "1.0.5"
+  config.vm.box_version = "1.0.7"
 
   config.vm.provider "virtualbox" do |vb|
     # Display the VirtualBox GUI when booting the machine
